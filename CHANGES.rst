@@ -1,3 +1,15 @@
+0.6.0 (unreleased)
+==================
+
+New Features
+------------
+
+sbpy.data.ephem
+^^^^^^^^^^^^^^^
+
+- New command-line script: ``sbpy-ephem``.
+
+
 0.5.0 (2024-08-28)
 ==================
 
